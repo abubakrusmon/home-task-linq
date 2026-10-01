@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\home task linq\bin\Debug\net10.0\home task linq.exe
+C:\Users\Asus\Desktop\home task linq\bin\Debug\net10.0\home task linq.deps.json
+C:\Users\Asus\Desktop\home task linq\bin\Debug\net10.0\home task linq.runtimeconfig.json
+C:\Users\Asus\Desktop\home task linq\bin\Debug\net10.0\home task linq.dll
+C:\Users\Asus\Desktop\home task linq\bin\Debug\net10.0\home task linq.pdb
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.AssemblyInfo.cs
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.dll
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\refint\home task linq.dll
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.pdb
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\home task linq.genruntimeconfig.cache
+C:\Users\Asus\Desktop\home task linq\obj\Debug\net10.0\ref\home task linq.dll
